@@ -1,0 +1,7 @@
+--cpu ARM7TDMI
+".\startup.o"
+".\evm_project.o"
+--strict --scatter ".\EVM_Project.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\EVM_Project.map" -o .\EVM_Project.axf
