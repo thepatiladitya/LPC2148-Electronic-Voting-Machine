@@ -175,10 +175,15 @@ LPC2148-Electronic-Voting-Machine/
 │   └── EVM_Project_Report.pdf
 │
 ├── Screenshots/
-│   ├── gpio_output.png
+│   ├── flowchart.png
+│   ├── gpio_candidate01.jpeg
+│   ├── gpio_candidate02.jpeg
+│   ├── gpio_candidate03.jpeg
+│   ├── gpio_candidate04.jpeg
+│   ├── project_interface.png
+│   ├── system_block_diagram.png
 │   ├── uart_output.png
 │   ├── watch_window.png
-│   └── logic_analyzer.png
 │
 ├── README.md
 └── .gitignore
@@ -189,20 +194,30 @@ LPC2148-Electronic-Voting-Machine/
 # 📸 Screenshots
 
 ## GPIO Activity
+<img src="Screenshots/gpio_candidate01.jpeg" width="700"/>
+## VOTE TO CANDIDATE_01
 
-<img src="Screenshots/gpio_output.png" width="700"/>
+<img src="Screenshots/gpio_candidate02.jpeg" width="700"/>
+## VOTE TO CANDIDATE_02
+
+<img src="Screenshots/gpio_candidate03.jpeg" width="700"/>
+## VOTE TO CANDIDATE_03
+
+<img src="Screenshots/gpio_candidate04.jpeg" width="700"/>
+## VOTE TO CANDIDATE_04
+
 
 ---
 
 ## UART Result Window
 
-<img src="Screenshots/uart_output.png" width="500"/>
+<img src="Screenshots/uart_output.jpeg" width="500"/>
 
 ---
 
 ## Watch Window
 
-<img src="Screenshots/watch_window.png" width="500"/>
+<img src="Screenshots/watch_window.jpeg" width="500"/>
 
 ---
 
