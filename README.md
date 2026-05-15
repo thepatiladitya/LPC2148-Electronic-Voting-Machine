@@ -3,7 +3,6 @@
 # 🗳️ LPC2148 Electronic Voting Machine  
 ### ARM7 Embedded Systems Project using LPC2148 Microcontroller
 
-<img src="Images/board_image.png" width="650"/>
 
 ![ARM7](https://img.shields.io/badge/ARM7-LPC2148-blue?style=for-the-badge)
 ![Embedded C](https://img.shields.io/badge/Language-Embedded%20C-green?style=for-the-badge)
@@ -194,17 +193,18 @@ LPC2148-Electronic-Voting-Machine/
 # 📸 Screenshots
 
 ## GPIO Activity
-<img src="Screenshots/gpio_candidate01.jpeg" width="700"/>
 ## VOTE TO CANDIDATE_01
+<img src="Screenshots/gpio_candidate01.jpeg" width="700"/>
 
-<img src="Screenshots/gpio_candidate02.jpeg" width="700"/>
 ## VOTE TO CANDIDATE_02
+<img src="Screenshots/gpio_candidate02.jpeg" width="700"/>
 
-<img src="Screenshots/gpio_candidate03.jpeg" width="700"/>
 ## VOTE TO CANDIDATE_03
+<img src="Screenshots/gpio_candidate03.jpeg" width="700"/>
 
-<img src="Screenshots/gpio_candidate04.jpeg" width="700"/>
 ## VOTE TO CANDIDATE_04
+<img src="Screenshots/gpio_candidate04.jpeg" width="700"/>
+
 
 
 ---
